@@ -11,7 +11,10 @@
     "gatsby": "^1.9.250",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-typography": "^1.7.19",
+    "gatsby-source-filesystem": "^1.5.39",
+    "npm": "^6.1.0",
     "typography-theme-bootstrap": "^0.16.7",
-    "typography-theme-lawton": "^0.15.10"
+    "typography-theme-lawton": "^0.15.10",
+    "typography-theme-moraga": "^0.15.10"
   }
 }

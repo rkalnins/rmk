@@ -1,6 +1,6 @@
 import Typography from 'typography';
-import bootstrapTheme from "typography-theme-bootstrap";
+import moraga from "typography-theme-moraga";
 
-const typography = new Typography(bootstrapTheme);
+const typography = new Typography(moraga);
 
 export default typography;

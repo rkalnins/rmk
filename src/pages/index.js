@@ -6,8 +6,7 @@ export default () => (
     <h1>Roberts Kalnins</h1>
     <div>
       <p>
-        I am Roberts Kalnins
-        </a>”.
+        I am Roberts Kalnins.
       </p>
       <blockquote>
         <p>
@@ -19,9 +18,8 @@ export default () => (
       </blockquote>
     </div>
     <p>Posted April 09, 2011</p>
-
     <div>
-    <Link to="/newpage/">Link to another page</Link>
+      <Link to="/newpage/">Link to another page</Link>
     </div>
     <div>
       <Link to="/page-3/">Link to page 3</Link>
